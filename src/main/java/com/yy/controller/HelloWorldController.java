@@ -23,6 +23,7 @@ public class HelloWorldController {
 		System.out.println("test for git");
         System.out.println("github updated file");
         System.out.println("github to local");
+        System.out.println("test local 2222222222222222");
 		return map;
 	}
 }
